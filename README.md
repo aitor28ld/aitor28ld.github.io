@@ -19,6 +19,7 @@
 1. [Creación de repositorios en github](https://github.com/aitor28ld/aitor28ld.github.io/tree/master#creación-de-repositorios-en-github)
 2. [Creación de plantillas automáticas en Github Pages](https://github.com/aitor28ld/aitor28ld.github.io/tree/master#creación-de-plantillas-automáticas-en-github-pages)
 3. [Configuración de los ficheros con extensión Markdown](https://github.com/aitor28ld/aitor28ld.github.io/tree/master#configuración-de-los-ficheros-con-extensión-markdown)
+4. [Modificando el código HTML de nuestra Github pages](https://github.com/aitor28ld/aitor28ld.github.io/tree/master#modificando-el-código-html-de-nuestra-github-pages)
 
 ---
 
@@ -131,3 +132,31 @@ Con estos pasos, será fácil conseguir que nuestra Github pages funcione:
     	![Imagen descriptiva](images/anonimo.jpg)
 
 10. Podemos ver el resultado en [la web](https://aitor28ld.github.io)
+
+# Modificando el código HTML de nuestra Github pages
+
+Si queremos modificar los datos de la página principal, clonamos el repositorio en nuestra máquina local
+
+	git clone git@github.com:<usuario\>/<usuario\>.github.io.git
+
+En el directorio raiz del repositorio, creamos un directorio llamado *\_layouts* y dentro de dicho directorio, un fichero llamado *default.html*.
+
+Nos vamos a la siguiente URL, cambiando *THEME\_NAME* por el nombre de nuestro tema.
+
+	https://github.com/pages-themes/<THEME_NAME\>/blob/master/_layouts/default.html
+
+Vemos el fichero en crudo pulsando sobre el botón *raw* y copiamos todo el contenido al fichero que creamos.
+
+Ahora podemos editar todo su contenido y dejarlo a nuestro gusto.
+
+Una vez hayamos modificado todo lo que quisimos, añadimos los ficheros con:
+
+	git add .
+
+Realizamos un comentario diciendo qué hemos añadido/modificado
+
+	git commit -am "<Lo que queramos comentar\>"
+
+Y subimos los cambios realizados a nuestro repositorio en Github
+
+	git push
