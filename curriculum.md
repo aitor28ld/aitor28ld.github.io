@@ -1,8 +1,9 @@
 Aitor León Delgado
-Técnico Superior Administración de Sistemas Informáticos en Red (19-03-2016 : Curso 2016-2017)
 
-Formación técnica
----------------
+Técnico Superior Administración de Sistemas Informáticos en Red
+
+# Formación técnica
+
 - Administración de servidores con Windows 2008, 2008 R2, 2012.
 - Administración de servidores con Debian Jessie.
 - Programación en lenguajes Python, Json, XML, HTML5, Bash.
@@ -10,15 +11,15 @@ Formación técnica
 - Gestión de aplicaciones para la seguridad del sistema.
 - Montaje y mantenimiento de equipos informáticos.
 
-Experiencia Laboral
----------------
+# Experiencia Laboral
+
 - Prácticas realizadas en Linfoca S.A
 
-Idiomas
----------------
+# Idiomas
+
 - Inglés: Nivel A2
 
-Información adicional
---------------
+# Información adicional
+
 - Carnet de conducir.
-- Blog propio [Open Binary](https://openbinary20.wordpress.com)
+- Blog: [Open Binary](https://openbinary20.wordpress.com)
