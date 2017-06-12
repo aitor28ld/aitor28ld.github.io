@@ -21,4 +21,4 @@ Idiomas
 Información adicional
 --------------
 - Carnet de conducir.
-- Blog propio [Open Binary](http://wordpress-aitor28ld.rhcloud.com)
+- Blog propio [Open Binary](https://openbinary20.wordpress.com)
