@@ -1,25 +1,39 @@
 Aitor León Delgado
 
-Técnico Superior Administración de Sistemas Informáticos en Red
+- Técnico Superior Administración de Sistemas Informáticos en Red
+- Técnico de Sistemas micro-informáticos y redes
 
-# Formación técnica
+# Conocimientos Técnicos
 
-- Administración de servidores con Windows 2008, 2008 R2, 2012.
-- Administración de servidores con Debian Jessie.
-- Programación en lenguajes Python, Json, XML, HTML5, Bash.
-- Gestión de CMS (Gestores de contenido).
-- Gestión de aplicaciones para la seguridad del sistema.
-- Montaje y mantenimiento de equipos informáticos.
+- Aplicaciones webs:  PHP, CMS, hosting, entornos PAAS/IAAS
+- Lenguajes de programación: Python, HTML, XML, JSON, Yamal
+- Redes: Routers, CISCO, Switches, Servidores, TCP/IP
+- Sistemas de control de versiones: Git, Github.
+- Sistemas Gestores de Bases de Datos: Oracle, PostgreSQL, MySQL, MongoDB
+- Sistemas operativos: 
+	- Linux: Debian Wheezy/Jessie, Ubuntu 14.04/16.04 LTS
+	- Windows: 7/8/10, Server 2008/2012
+- Virtualización: OpenStack, Vagrant, KVM
 
 # Experiencia Laboral
 
 - Prácticas realizadas en Linfoca S.A
+- Prácticas realizadas en IWAN 21 Networks S.L
 
 # Idiomas
 
-- Inglés: Nivel A2
+- Inglés: 
+	- Hablado: A2
+	- Escrito: A2
+	- Leído: B1
 
 # Información adicional
 
 - Carnet de conducir.
 - Blog: [Open Binary](https://openbinary20.wordpress.com)
+- E-mail: ldaitor28@gmail.com
+
+# Datos de interés
+
+- Disponibilidad para viajar.
+- Disponibilidad para trabajar en equipo.
