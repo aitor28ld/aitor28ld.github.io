@@ -1,5 +1,7 @@
 # Inicio
 
-Esta es la página de inicio. Si quieres contactar conmigo envia un correo electrónico a aitor28ld@gmail.com
+Bienvenidos a mi Github Pages. 
 
-Si quieres saber más de mí, consulta este enlace [Curriculum](curriculum)
+Soy Aitor, tengo 23 años y quiero tener el mayor conocimiento posible acerca de todas las herramientas de la administración de sistemas informáticos.
+
+Si quieres saber más de mí, consulta mi [Curriculum](curriculum)
