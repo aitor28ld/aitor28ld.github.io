@@ -1,3 +1,5 @@
+![foto-perfil](assets/curriculum.png)
+
 Aitor León Delgado
 
 - Técnico Superior Administración de Sistemas Informáticos en Red
