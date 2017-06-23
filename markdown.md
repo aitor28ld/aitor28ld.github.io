@@ -2,28 +2,28 @@
 
 # Índice
 
-1. ¿Qué es Markdown?
-2. Sintaxis
-	1. Cabeceras 
-	2. Enlaces
-	3. Imágenes
-	4. Citas
-	5. Listas
-	6. Tablas
-	7. Escapar caracteres
-	8. [Cabecera anidada](#anidada1)
+1. [¿Qué es Markdown?](#markdown)
+2. [Sintaxis](#sintaxis)
+	1. [Cabeceras](#cabeceras)
+	2. [Enlaces](#enlaces)
+	3. [Imágenes](#imágenes)
+	4. [Citas](#citas)
+	5. [Listas](#listas)
+	6. [Tablas](#tablas)
+	7. [Escapar caracteres](#escapar)
+	8. [Cabeceras enlazadas](#anidadas)
 
 ---
 
-# ¿Qué es Markdown?
+# ¿Qué es Markdown? {#markdown}
 
 Ligero y fácil de usar a la par que intuitivo, es un lenguaje de marcas de texto plano, limpio y sencillo sin necesidad de etiquetas o elementos parecidos.
 
-# Sintaxis
+# Sintaxis {#sintaxis}
 
 La sintaxis utilizada por Markdown es fácil de recordar.
 
-## Cabeceras
+## Cabeceras {#cabeceras}
 
 Las cabeceras en Markdown son sencillas, sabiendo que existen 6 tipos de cabeceras y éstas en Markdown se definen por la almohadilla (\#), vemos algunos ejemplos:
 
@@ -36,7 +36,7 @@ Las cabeceras en Markdown son sencillas, sabiendo que existen 6 tipos de cabecer
 
 ---
 
-## Enlaces
+## Enlaces {#enlaces}
 
 Para definir enlaces en Markdown, deberemos de hacerlo cómo vemos a continuación:
 
@@ -68,7 +68,7 @@ Ejemplo: <https://www.google.com>
 
 ---
 
-## Imágenes
+## Imágenes {#imágenes}
 
 Es prácticamente igual que la creación de enlaces a diferencia que en el enlazado de imágenes se define el cierre de la exclamación (!) al principio, ejemplo:
 	
@@ -79,7 +79,7 @@ Así se vería:
 
 ---
 
-## Citas
+## Citas {#citas}
 
 Para crear una cita con Markdown es bastante sencillo y fácil de recordar, tan sólo deberemos de introducir el símbolo > delante de lo que vayamos a citar, ejemplo:
 
@@ -97,7 +97,7 @@ Vista:
 
 ---
 
-## Listas
+## Listas {#listas}
 
 Las listas que tiene son dos, listas ordenadas y no ordenadas.
 
@@ -139,7 +139,7 @@ Vista:
 
 ---
 
-## Tablas
+## Tablas {#tablas}
 
 La sintaxis de las tablas es sencilla. Primero deberemos de definir los elementos principales de las columnas y separarlos con |. También podemos alinear los elementos de toda la columna completa hacía la derecha, izquierda o centro (por defecto) con la ayuda de los dos puntos (:) definidos antes de los dos guiones (--)
 
@@ -158,7 +158,7 @@ Contenido elemento1 | Contenido elemento2 | Contenido elemento 3
 
 ---
 
-## Escapar caracteres
+## Escapar caracteres {#escapar}
 
 Podemos escarpar caracteres con la ayuda de la barra invertda o backslash ( \\ ). Ejemplo:
 
@@ -170,4 +170,16 @@ Vista:
 
 ---
 
-## Cabeceras anidadas {#anidada1} 
+## Cabeceras anidadas{#anidadas}
+
+Las cabeceras anidadas nos permiten la navegación dentro del propio fichero de Markdown con facilidad. 
+
+Ejemplo:
+
+	# Cabecera1 {#cabeceraanidada1}
+	[Cabecera1](#cabeceraanidada1)
+
+Vista:
+
+# Cabecera1 {#cabeceraanidada1)
+[Cabecera1](#cabeceraanidada1)
