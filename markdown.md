@@ -34,6 +34,20 @@ Las cabeceras en Markdown son sencillas, sabiendo que existen 6 tipos de cabecer
 	##### Cabecera de tipo 5
 	###### Cabecera de tipo 6
 
+Vistas:
+
+# Cabecera de tipo 1 
+
+## Cabecera de tipo 2
+
+### Cabecera de tipo 3
+
+#### Cabecera de tipo 4
+
+##### Cabecera de tipo 5
+
+###### Cabecera de tipo 6
+
 ---
 
 ## Enlaces {#enlaces}
@@ -181,5 +195,5 @@ Ejemplo:
 
 Vista:
 
-#### Cabecera1 {#cabeceraanidada1)
+### Cabecera1 {#cabeceraanidada1)
 [Cabecera1](#cabeceraanidada1)
