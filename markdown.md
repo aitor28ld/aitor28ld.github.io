@@ -6,7 +6,7 @@
 2. [Sintaxis](#sintaxis)
 	1. [Cabeceras](#cabeceras)
 	2. [Enlaces](#enlaces)
-	3. [Imágenes](#imágenes)
+	3. [Imágenes](#imagenes)
 	4. [Citas](#citas)
 	5. [Listas](#listas)
 	6. [Tablas](#tablas)
@@ -68,7 +68,7 @@ Ejemplo: <https://www.google.com>
 
 ---
 
-## Imágenes {#imágenes}
+## Imágenes {#imagenes}
 
 Es prácticamente igual que la creación de enlaces a diferencia que en el enlazado de imágenes se define el cierre de la exclamación (!) al principio, ejemplo:
 	
@@ -170,7 +170,7 @@ Vista:
 
 ---
 
-## Cabeceras anidadas{#anidadas}
+## Cabeceras anidadas {#anidadas}
 
 Las cabeceras anidadas nos permiten la navegación dentro del propio fichero de Markdown con facilidad. 
 
@@ -181,5 +181,5 @@ Ejemplo:
 
 Vista:
 
-# Cabecera1 {#cabeceraanidada1)
+#### Cabecera1 {#cabeceraanidada1)
 [Cabecera1](#cabeceraanidada1)
