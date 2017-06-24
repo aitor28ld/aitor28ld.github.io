@@ -155,7 +155,7 @@ Vista:
 
 ## Tablas {#tablas}
 
-La sintaxis de las tablas es sencilla. Primero deberemos de definir los elementos principales de las columnas y separarlos con |. También podemos alinear los elementos de toda la columna completa hacía la derecha, izquierda o centro (por defecto) con la ayuda de los dos puntos (:) definidos antes de los dos guiones (--)
+La sintaxis de las tablas es sencilla. Primero deberemos de definir los elementos principales de las columnas y separarlos con \|. También podemos alinear los elementos de toda la columna completa hacía la derecha, izquierda o centro (por defecto) con la ayuda de los dos puntos (:) definidos antes de los dos guiones (--)
 
 Ejemplo
 
@@ -166,6 +166,7 @@ Contenido elemento1 | Contenido elemento2 | Contenido 3
 </pre>
 
 Vista:
+
 Elemento1 | Elemento2 | Elemento 3
 :--|--|--:
 Contenido elemento1 | Contenido elemento2 | Contenido elemento 3
